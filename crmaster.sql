@@ -1,6 +1,7 @@
 /***** Edison Raunel Feliz Matricula 19-SIIN-1-023 SECCION 0541*****/
 USE [master]
 GO
+//***Wilfredo Sanchez Pio 19-miin-1-075***//
 /****** Object:  Database [CRMaster]    Script Date: 28/04/2021 16:39:40 ******/
 CREATE DATABASE [CRMaster]
  CONTAINMENT = NONE
